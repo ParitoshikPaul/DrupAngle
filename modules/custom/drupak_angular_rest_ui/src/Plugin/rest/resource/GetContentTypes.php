@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\drup_angle_content_api\Plugin\rest\resource;
+namespace Drupal\drupanglerestui\Plugin\rest\resource;
 
 use Drupal\rest\Plugin\ResourceBase;
 use Drupal\rest\ResourceResponse;
