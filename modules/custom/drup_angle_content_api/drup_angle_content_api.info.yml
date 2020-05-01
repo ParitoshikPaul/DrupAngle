@@ -1,0 +1,5 @@
+name: Drupal Angular Content API
+description: Drupal content exposed to angular.
+package: Drupal Angular
+type: module
+core: 8.x
